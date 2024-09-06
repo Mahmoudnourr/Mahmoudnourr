@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-nour-75992321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-nour-75992321a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/solomahmoudnour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/solomahmoudnour" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-nour-75992321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-nour-75992321a/" height="30" width="40" /></a>
+<a href="https://fb.com/solomahmoudnour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomahmoudnour" height="30" width="40" /></a>
 <a href="https://instagram.com/mahm0udnour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahm0udnour" height="30" width="40" /></a>
 </p>
 
